@@ -1,0 +1,13 @@
+{
+    "require": {
+        "zloesabo/speechkit-php": "^2.0",
+        "aws/aws-sdk-php": "^3.172"
+    },
+    "autoload": {
+        "psr-4": {
+            "Helpers\\": "Helpers/"
+        },
+        "files": [
+        ]
+    }
+}
